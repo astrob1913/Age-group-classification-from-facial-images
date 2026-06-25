@@ -25,6 +25,24 @@ The project also includes a real-world **AgeDetection** pipeline that detects fa
 
 ---
 
+#  Google Drive Resources
+
+The complete project resources are available on Google Drive, including:
+
+*  Original dataset
+*  Trained models
+*  Demo video for AgeDetection
+*  Google Colab notebooks
+*  Coursework report
+
+**Google Drive Folder:**
+
+https://drive.google.com/drive/folders/1Kpd5yJWOP55z6wMKD2PhEOx4mpHlN-9-?usp=sharing
+
+> **Note:** Due to GitHub file size limitations, the dataset, trained models (`.pkl`, `.h5`) and intermediate NumPy arrays (`.npy`) are hosted on Google Drive instead of this repository.
+
+---
+
 # Project Highlights
 
 - End-to-end Computer Vision pipeline
