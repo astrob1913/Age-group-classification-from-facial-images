@@ -1,0 +1,22 @@
+
+# Windows
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+CW_Dataset/
+
+# Models
+Models/
+
+# Videos
+Personal_Video/
+
+# Large NumPy arrays
+*.npy
